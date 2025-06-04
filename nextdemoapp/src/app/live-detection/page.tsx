@@ -86,7 +86,7 @@ export default function MoodDetection() {
         height={360}
         className="rounded border"
       />
-      <p className="mt-4 text-xl">Detected Mood: <strong>{mood}</strong></p>
+      <p className="mt-4 text-xl">Detected Mood : <strong>{mood}</strong></p>
     </div>
   );
 }
